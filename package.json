@@ -1,5 +1,5 @@
 {
-  "name": "cube-chain-connector",
+  "name": "@cube-chain/cube-connector",
   "publishConfig": {
     "access": "public"
   },
